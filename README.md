@@ -1,4 +1,4 @@
-# Project Name
+# Dasmoto's Arts & Crafts
 
 > Very simple website for a fictional arts and crafts store.
 
